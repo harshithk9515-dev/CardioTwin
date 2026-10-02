@@ -10,7 +10,7 @@
 | Field | Details |
 |---|---|
 | Team Name | `[fury]` |
-| College / Incubator | `[Harshith k]` |
+| College / Incubator | `[Vijaya vittala institution of technology]` |
 | Team Leader | `[Harshith k]` |
 | Repository | Public GitHub link (folder `https://github.com/harshithk9515-dev/CardioTwin/`) |
 | License | Apache 2.0 (see `LICENSE`) |
