@@ -9,13 +9,11 @@
 
 | Field | Details |
 |---|---|
-| Team Name | `[Your Team Name]` |
-| College / Incubator | `[Your College / Incubator Name]` |
-| Team Leader | `[Name · Phone · Email]` |
-| Members | `[Member 2 · Member 3 · Member 4]` |
-| Repository | Public GitHub link (folder `TeamName_CollegeName`) |
+| Team Name | `[fury]` |
+| College / Incubator | `[Harshith k]` |
+| Team Leader | `[Harshith k]` |
+| Repository | Public GitHub link (folder `https://github.com/harshithk9515-dev/CardioTwin/`) |
 | License | Apache 2.0 (see `LICENSE`) |
-| Demo Video | `[Unlisted YouTube link — min 20 minutes]` |
 
 ## Clinical Problem Statement
 
